@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" role="img" aria-label="Stylized portrait of head strength coach">
+  <defs><linearGradient id="t1bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1C2432"/><stop offset="1" stop-color="#0E1420"/></linearGradient></defs>
+  <rect width="400" height="440" fill="url(#t1bg)"/>
+  <circle cx="200" cy="180" r="130" fill="#C8FF3D" opacity="0.08"/>
+  <polygon points="0,440 130,180 190,180 60,440" fill="#C8FF3D" opacity="0.12"/>
+  <!-- bust silhouette -->
+  <g>
+    <circle cx="200" cy="165" r="62" fill="#3A4356"/>
+    <path d="M138 160 a62 62 0 0 1 124 0 l0 -18 a62 40 0 0 0 -124 0 z" fill="#232B3B"/>
+    <path d="M96 440 c6 -96 52 -150 104 -150 s98 54 104 150 z" fill="#3A4356"/>
+    <path d="M170 440 c4 -60 16 -104 30 -104 s26 44 30 104 z" fill="#C8FF3D" opacity="0.85"/>
+  </g>
+  <rect x="30" y="30" width="10" height="60" fill="#C8FF3D"/>
+  <text x="200" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" letter-spacing="4" fill="#9AA3B2">STRENGTH</text>
+</svg>

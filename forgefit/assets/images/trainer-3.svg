@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" role="img" aria-label="Stylized portrait of boxing coach">
+  <defs><linearGradient id="t3bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#16202A"/><stop offset="1" stop-color="#0A1018"/></linearGradient></defs>
+  <rect width="400" height="440" fill="url(#t3bg)"/>
+  <circle cx="200" cy="180" r="130" fill="#4DA3FF" opacity="0.08"/>
+  <polygon points="0,440 130,180 190,180 60,440" fill="#4DA3FF" opacity="0.12"/>
+  <g>
+    <circle cx="200" cy="165" r="62" fill="#33404F"/>
+    <rect x="140" y="104" width="120" height="26" rx="13" fill="#1B2431"/>
+    <path d="M96 440 c6 -96 52 -150 104 -150 s98 54 104 150 z" fill="#33404F"/>
+    <path d="M170 440 c4 -60 16 -104 30 -104 s26 44 30 104 z" fill="#4DA3FF" opacity="0.85"/>
+    <!-- glove accent -->
+    <circle cx="308" cy="330" r="34" fill="#FF5A2E" opacity="0.9"/>
+    <rect x="296" y="352" width="24" height="40" rx="8" fill="#FF5A2E" opacity="0.9"/>
+  </g>
+  <rect x="30" y="30" width="10" height="60" fill="#4DA3FF"/>
+  <text x="200" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" letter-spacing="4" fill="#9AA3B2">BOXING</text>
+</svg>

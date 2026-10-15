@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Engine room cardio deck illustration">
+  <rect width="600" height="400" fill="#141019"/>
+  <rect y="300" width="600" height="100" fill="#0D0A11"/>
+  <g stroke="#FF5A2E" stroke-width="2" opacity="0.15">
+    <line x1="0" y1="60" x2="600" y2="60"/><line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="180" x2="600" y2="180"/><line x1="0" y1="240" x2="600" y2="240"/>
+  </g>
+  <!-- treadmills -->
+  <g>
+    <g transform="translate(90,150)">
+      <rect x="0" y="110" width="150" height="18" rx="9" fill="#2A2430"/>
+      <rect x="120" y="30" width="14" height="95" fill="#3A3342"/>
+      <rect x="96" y="18" width="62" height="22" rx="6" fill="#3A3342"/>
+      <rect x="100" y="22" width="40" height="8" rx="4" fill="#FF5A2E" opacity="0.85"/>
+    </g>
+    <g transform="translate(300,150)">
+      <rect x="0" y="110" width="150" height="18" rx="9" fill="#2A2430"/>
+      <rect x="120" y="30" width="14" height="95" fill="#3A3342"/>
+      <rect x="96" y="18" width="62" height="22" rx="6" fill="#3A3342"/>
+      <rect x="100" y="22" width="40" height="8" rx="4" fill="#FF5A2E" opacity="0.85"/>
+    </g>
+  </g>
+  <!-- rowers -->
+  <g fill="#241E28">
+    <rect x="90" y="300" width="170" height="16" rx="8"/><rect x="340" y="300" width="170" height="16" rx="8"/>
+  </g>
+  <circle cx="130" cy="292" r="16" fill="#3A3342"/><circle cx="380" cy="292" r="16" fill="#3A3342"/>
+  <text x="300" y="368" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="22" letter-spacing="8" fill="#FF5A2E">ENGINE ROOM</text>
+</svg>
